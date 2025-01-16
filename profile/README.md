@@ -1,7 +1,7 @@
 ## Hi there 👋
 plzbuybook 도서 온라인 쇼핑몰 입니다.
 
-https://wwww.plzbuybook.store
+https://plzbuybook.store
 
 <!--
 
