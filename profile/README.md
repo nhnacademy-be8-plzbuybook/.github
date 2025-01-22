@@ -123,7 +123,8 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
   
 - front
   <br>
-  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![javascript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![tymeleaf](![image](https://github.com/user-attachments/assets/5d4ca37b-9bc7-4953-8c51-5ba34c1a6d48)
+  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![javascript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <img src="https://img.shields.io/badge/tymeleaf-%23DD0031?style=flat-square&logo=tymeleaf-&logoColor=white">
+
 ) 
   
 - 기타
