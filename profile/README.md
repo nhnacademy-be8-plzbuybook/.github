@@ -27,7 +27,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 ## erd
 [![ERD 이미지](https://github.com/user-attachments/assets/92cf3daa-6ac7-4006-ae37-c70d69b9ef22)](https://www.erdcloud.com/d/XbAzHg7Y7kSujDNBN)
 
-- 변경할 때 마다 버전 관리를 하였고, 최종 버전은 1.3버전 입니다.
+- 변경할 때 마다 버전 관리를 하였고, 최종 버전은 1.2버전 입니다.
 
   
 ## 아키텍처
@@ -175,6 +175,7 @@ gateway
  - 주문한 도서에만 리뷰 작성 가능 하도록 구현
  - NHN cloud Object Storage를 이용한 리뷰 이미지 업로드 기능 구현
  - 전체 리뷰의 평점을 계산하는 리뷰 구현
+ - 리뷰/리뷰 이미지 관련 REST API 구현
 
 쿠폰
  - 회원이 소유한 쿠폰 목록 MyPage에 구현
@@ -192,6 +193,7 @@ gateway
  -  휴면상태 해지 기능 구현
  -  Dooray Message를 사용하여 인증 해지
  -  회원 정보를 수정, 조회 가능한 관리자페이지 구현
+ -  회원/회원 인증/ 회원 등급/ 회원 상태 관련 REST API 구현
 
 ## 국새연
 회원
@@ -296,13 +298,14 @@ Eureka 환경구성
  -  카테고리와 도서 연결 관계 구현
 
 검색
- -  Elastic Search 도입
+ - Elastic Search 도입
  - Elastic Search nori를 적용해 Full Text Search 구현
  - LogStash를 연결해 Elastic Search와 Mysql과 동기화 구현
  - Elastic Search Index 관련 Template 설정
  - 도서 제목, 저자, 카테고리, 태그로 검색 기능 구현
  - 관리자 페이지에서 카테고리, 태그 검색 기능 구현
  - Kibana를 이용한 Elastic Search 데이터 시각화
+ - 검색어에 포함되는 도서의 제목, 카테고리 등에 가중치 설정
 
 태그
  -  태그 등록, 수정, 삭제 구현
