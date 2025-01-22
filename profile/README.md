@@ -114,7 +114,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 - db
-<br>
+  <br>
   ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
 - CI/CD
