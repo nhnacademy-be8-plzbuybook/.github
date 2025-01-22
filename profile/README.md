@@ -68,7 +68,15 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 - 오후 5:00 진행한 작업 공유 및 merge
 
 ## test coverage
-//TODO 간단한 설명
+//TODO 제일 높을 때 스크린샷 적용
+
+- backend-api 테스트 커버리지
+- coupon-api 테스트 커버리지
+- front 테스트 커버리지
+- auth 테스트 커버리지
+- gateway 테스트 커버리지
+- eureka 테스트 커버리지
+
 
 ## api 명세서 
 //TODO 간단한 설명
