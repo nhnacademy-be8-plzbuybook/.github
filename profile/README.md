@@ -134,7 +134,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
  ![sonarQube](https://camo.githubusercontent.com/f9e38de7df6c84a1f224834af622f868a827a928559a425f64125c8d1bb91309/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6e6172517562652d3445394243443f7374796c653d666c6174266c6f676f3d536f6e617251756265266c6f676f436f6c6f723d7768697465) ![toss](https://camo.githubusercontent.com/114a354cf33e99e16367d4b9d798afe2e9d2185b92a6e8161bb13e62d3a38185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f73735061796d656e74732d3030383543413f7374796c653d666c6174266c6f676f3d636f6e746163746c6573737061796d656e74266c6f676f436f6c6f723d7768697465
 ) <img src="https://img.shields.io/badge/junit5-%23DD0031?style=flat-square&logo=junit5-&logoColor=white">
   <img src="https://img.shields.io/badge/mockito-%23DD0031?style=flat-square&logo=mocito-&logoColor=white">
-  <img src="https://img.shields.io/badge/페이코-%23DD0031?style=flat-square&logo=페이코-&logoColor=white">
+  <img src="https://img.shields.io/badge/payco-%23DD0031?style=flat-square&logo=payco-&logoColor=white">
 
 
 
