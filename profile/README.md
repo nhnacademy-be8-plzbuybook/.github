@@ -26,6 +26,44 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 [![ERD 이미지](https://github.com/user-attachments/assets/92cf3daa-6ac7-4006-ae37-c70d69b9ef22)](https://www.erdcloud.com/d/XbAzHg7Y7kSujDNBN)
 
 
+## 아키텍처
+
+## ci/cd pipeline
+
+## project management
+
+## 업무 분담
+### 김태현
+
+
+### 최수관
+
+
+### 윤지호
+
+
+### 국새연
+
+
+### 허수혁
+
+
+### 한결아
+
+
+### 최광혁
+
+
+
+
+
+
+
+## 사용 기술
+
+
+
+
 
 
 
