@@ -3,7 +3,6 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 
 배포 사이트 : https://plzbuybook.store
 
-----
 
 ## 리포지토리 경로
 - [backend-api 서버](https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall "backend-api 바로가기")
@@ -13,6 +12,22 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 - [gateway 서버](https://github.com/nhnacademy-be8-plzbuybook/bookstore-gateway "gateway 바로가기")
 - [eureka 서버](https://github.com/nhnacademy-be8-plzbuybook/bookstore-eureka "eureka 바로가기")
 - [기술 정리 notion](https://www.notion.so/151a5967508980b68a8cc5c464e95bce "notion 바로가기")
+
+## 팀원
+- 김태현
+- 최수관
+- 윤지호
+- 국새연
+- 허수혁
+- 한결아
+- 최광혁
+
+
+
+
+
+
+
   
 
   
