@@ -109,15 +109,22 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 
 
 ## 사용 기술
-
-
+- spring
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![intelli-](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![java21](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![nhncloud](https://camo.githubusercontent.com/fed31abfb563ff09a54bba34dd447beca719b79f4bf25e243adae1592f8dc247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e484e436c6f75642d3336393346333f7374796c653d666c6174266c6f676f3d69636c6f7564266c6f676f436f6c6f723d7768697465)
+
+- db
+  ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  
+- CI/CD
+  ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![nhncloud](https://camo.githubusercontent.com/fed31abfb563ff09a54bba34dd447beca719b79f4bf25e243adae1592f8dc247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e484e436c6f75642d3336393346333f7374796c653d666c6174266c6f676f3d69636c6f7564266c6f676f436f6c6f723d7768697465)
+  
+- front
+  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+- 기타
+![intelli-](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![java21](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 
 
 
