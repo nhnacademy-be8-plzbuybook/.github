@@ -33,25 +33,25 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 ## project management
 
 ## 업무 분담
-### 김태현
+## 김태현
 
 
-### 최수관
+## 최수관
 
 
-### 윤지호
+## 윤지호
 
 
-### 국새연
+## 국새연
 
 
-### 허수혁
+## 허수혁
 
 
-### 한결아
+## 한결아
 
 
-### 최광혁
+## 최광혁
 
 
 
@@ -62,7 +62,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 ## 사용 기술
 
 
-
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
