@@ -25,7 +25,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 ## erd
 [![ERD 이미지](https://github.com/user-attachments/assets/92cf3daa-6ac7-4006-ae37-c70d69b9ef22)](https://www.erdcloud.com/d/XbAzHg7Y7kSujDNBN)
 
-
+- 변경할 때 마다 버전 관리를 하였고, 최종 버전은 1.3버전 입니다.
 ## 아키텍처
 
 ## ci/cd pipeline
