@@ -22,6 +22,10 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 - 한결아 [Gksrufdk09](https://github.com/Gksrufdk09)
 - 최광혁 [fkqlaus](https://github.com/fkqlaus)
 
+## erd
+![Uploading image.png…]()
+
+
 
 
 
