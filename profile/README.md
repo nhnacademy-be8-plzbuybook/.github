@@ -14,13 +14,13 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 - [기술 정리 notion](https://www.notion.so/151a5967508980b68a8cc5c464e95bce "notion 바로가기")
 
 ## 팀원
-- 김태현 https://github.com/orgs/nhnacademy-be8-plzbuybook/people/kkkkimtaehyeon
-- 최수관 https://github.com/orgs/nhnacademy-be8-plzbuybook/people/thr13
-- 윤지호 https://github.com/orgs/nhnacademy-be8-plzbuybook/people/yjhhh123
-- 국새연 https://github.com/orgs/nhnacademy-be8-plzbuybook/people/guksy
-- 허수혁 https://github.com/orgs/nhnacademy-be8-plzbuybook/people/jalyice
-- 한결아 https://github.com/orgs/nhnacademy-be8-plzbuybook/people/Gksrufdk09
-- 최광혁 https://github.com/orgs/nhnacademy-be8-plzbuybook/people/fkqlaus
+- 김태현 https://github.com/kkkkimtaehyeon
+- 최수관 https://github.com/thr13
+- 윤지호 https://github.com/yjhhh123
+- 국새연 https://github.com/guksy
+- 허수혁 https://github.com/jalyice
+- 한결아 https://github.com/Gksrufdk09
+- 최광혁 https://github.com/fkqlaus
 
 
 
