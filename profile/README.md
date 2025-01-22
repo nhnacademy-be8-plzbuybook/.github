@@ -23,8 +23,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 - 최광혁 [fkqlaus](https://github.com/fkqlaus)
 
 ## erd
-![Uploading image.png…]()
-
+[![ERD 이미지](https://github.com/user-attachments/assets/92cf3daa-6ac7-4006-ae37-c70d69b9ef22)](https://www.erdcloud.com/d/XbAzHg7Y7kSujDNBN)
 
 
 
