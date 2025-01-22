@@ -46,7 +46,33 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 - SonarQube를 통해 코드의 품질과 보안을 유지합니다.
 
 ## project management
+1) WBS
+![스크린샷 2025-01-20 오후 4 23 49](https://github.com/user-attachments/assets/71a5185d-4715-479e-8f05-8ef0856fa73b)
+
+- 도서, 주문, 회원, 쿠폰으로 나누어 일정을 유연하게 관리했습니다.
+
+2) Kanban Board
+![스크린샷 2025-01-20 오후 4 27 50](https://github.com/user-attachments/assets/ad3d4ac0-e84f-4166-8cc6-2d5da670270d)
+
+- 체계적이고 효율적인 관리를 위해 Github Project를 활용했습니다.
+ 
+3) Github Roadmap
+![스크린샷 2025-01-22 오후 1 54 18](https://github.com/user-attachments/assets/ab6a5439-226e-41b9-92aa-8ae71812e23d)
+
+- 목표 기간을 설정하여 개발을 효율적으로 진행했습니다.
+  
+4) Scrum
+![스크린샷 2025-01-22 오후 3 07 53](https://github.com/user-attachments/assets/a5611e4c-7c30-4edf-806a-1dcb73ebb050)
+
+- 오전 9:30 금일 수행할 작업 공유
+- 오후 5:00 진행한 작업 공유 및 merge
+
+## test coverage
 //TODO 간단한 설명
+
+## api 명세서 
+//TODO 간단한 설명
+
 ## 업무 분담
 ## 김태현
 
