@@ -63,6 +63,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![intelli-](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 
