@@ -4,7 +4,10 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 배포 사이트 : https://plzbuybook.store
 
 ---
-ㅅㄴㄷㅅ
+
+## 리포지토리 경로
+- [backend-api](https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall, "backend-api 바로가기")
+
 
 
 <!--
