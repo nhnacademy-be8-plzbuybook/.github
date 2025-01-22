@@ -119,7 +119,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
   
 - CI/CD
   <br>
-  ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![nhncloud](https://camo.githubusercontent.com/fed31abfb563ff09a54bba34dd447beca719b79f4bf25e243adae1592f8dc247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e484e436c6f75642d3336393346333f7374796c653d666c6174266c6f676f3d69636c6f7564266c6f676f436f6c6f723d7768697465) ![gitaction](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nginx]() ![git]()
+  ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![nhncloud](https://camo.githubusercontent.com/fed31abfb563ff09a54bba34dd447beca719b79f4bf25e243adae1592f8dc247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e484e436c6f75642d3336393346333f7374796c653d666c6174266c6f676f3d69636c6f7564266c6f676f436f6c6f723d7768697465) ![gitaction](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nginx](https://camo.githubusercontent.com/22d9b54c42fcd2a1e3c491b589d8a0751517d97f3d3ab3153a893495cbeb1bc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e67696e782d3030393633393f7374796c653d666c6174266c6f676f3d6e67696e78266c6f676f436f6c6f723d7768697465) ![git]()
   
 - front
   <br>
