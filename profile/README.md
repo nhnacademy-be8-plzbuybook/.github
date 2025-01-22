@@ -1,6 +1,8 @@
 ## Hi there 👋
 plzbuybook 도서 온라인 쇼핑몰 입니다.
 
+//TODO 홍보 영상 링크 추가 
+
 배포 사이트 : https://plzbuybook.store
 
 
@@ -27,11 +29,11 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 
 - 변경할 때 마다 버전 관리를 하였고, 최종 버전은 1.3버전 입니다.
 ## 아키텍처
-
+//TODO 간단한 설명
 ## ci/cd pipeline
-
+//TODO 간단한 설명
 ## project management
-
+//TODO 간단한 설명
 ## 업무 분담
 ## 김태현
 
@@ -68,6 +70,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![nhncloud](https://camo.githubusercontent.com/fed31abfb563ff09a54bba34dd447beca719b79f4bf25e243adae1592f8dc247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e484e436c6f75642d3336393346333f7374796c653d666c6174266c6f676f3d69636c6f7564266c6f676f436f6c6f723d7768697465)
 
 
 
