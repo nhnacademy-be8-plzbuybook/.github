@@ -92,7 +92,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
  - 로그인 기능 구현
  - OAUth2 로그인 기능 구현(페이코)
 
-주문
+[주문](https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/512#issue-2806193570)
 
  - 비회원 주문 기능 구현
  - 비회원 주문 상세조회 기능 구현
