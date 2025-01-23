@@ -183,7 +183,7 @@ gateway
  - 회원이 소유한 쿠폰 목록 MyPage에 구현
 
 회원
- -  회원 가입 기능 구현
+ -  회원 가입 기능 구현 https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/499#issue-2805706691
  -  한번 가입된 아이디 가입 불가능하게 구현
  -  회원 주소 등록 기능 구현
  -  회원 주소 10개 제한 되게 구현
