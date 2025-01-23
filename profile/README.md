@@ -300,13 +300,13 @@ Eureka 환경구성
  -  카테고리와 도서 연결 관계 구현
 
 검색
- - Elastic Search 도입
+ - Elastic Search 도입 https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/502
+ - Kibana를 이용한 Elastic Search 데이터 시각화 https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/508
+ - LogStash를 연결해 Elastic Search와 Mysql과 동기화 구현 https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/509
  - Elastic Search nori를 적용해 Full Text Search 구현
- - LogStash를 연결해 Elastic Search와 Mysql과 동기화 구현
  - Elastic Search Index 관련 Template 설정
  - 도서 제목, 저자, 카테고리, 태그로 검색 기능 구현
  - 관리자 페이지에서 카테고리, 태그 검색 기능 구현
- - Kibana를 이용한 Elastic Search 데이터 시각화
  - 검색어에 포함되는 도서의 제목, 카테고리 등에 가중치 설정
 
 태그
