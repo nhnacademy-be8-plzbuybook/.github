@@ -27,7 +27,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 ## erd
 [![ERD 이미지](https://github.com/user-attachments/assets/f4757719-2afd-4a23-8182-924fbeb19c12)](https://www.erdcloud.com/d/6rZwhQcMopNjttiyW)
 
-- 변경할 때 마다 버전 관리를 하였고, 최종 버전은 1.2버전 입니다.
+- 변경할 때 마다 버전 관리를 하였고, 최종 버전은 1.3 버전 입니다.
 
   
 ## 아키텍처
@@ -68,14 +68,16 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 - 오후 5:00 진행한 작업 공유 및 merge
 
 ## test coverage
-//TODO 제일 높을 때 스크린샷 적용
+지속적인 라인 커버리지 측정으로 코드 품질 관리
 
-- backend-api 테스트 커버리지
-- coupon-api 테스트 커버리지
-- front 테스트 커버리지
-- auth 테스트 커버리지
-- gateway 테스트 커버리지
-- eureka 테스트 커버리지
+<img width="1403" alt="스크린샷 2025-01-23 오전 9 10 33" src="https://github.com/user-attachments/assets/6455a001-a977-45e8-88a1-055319fd1a5f" />
+- backend-api 테스트 커버리지 81.0%
+
+<img width="1447" alt="스크린샷 2025-01-23 오전 9 10 58" src="https://github.com/user-attachments/assets/cc635060-fbce-43ae-8109-bf5455a623b7" />
+- coupon-api 테스트 커버리지 80.3%
+  
+<img width="1438" alt="스크린샷 2025-01-23 오전 9 11 27" src="https://github.com/user-attachments/assets/05a2a0ef-736f-4b9f-905c-f2bc88715a15" />
+- auth 테스트 커버리지 81.4%
 
 
 
