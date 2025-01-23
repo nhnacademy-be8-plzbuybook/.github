@@ -360,7 +360,7 @@ Spring Cloud 환경구성
 
 
 ## api 명세서 페이지
-  https://nhnacademy-be8-plzbuybook.github.io/.github/
+  https://nhnacademy-be8-plzbuybook.github.io/plzbuybook-docs.io/api.html
   
   
 
