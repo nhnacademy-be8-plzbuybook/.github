@@ -359,8 +359,8 @@ Spring Cloud 환경구성
 
 
 
-## api 명세
-  (https://github.com/nhnacademy-be8-plzbuybook/.github/blob/develop/api.html)
+## api 명세서 페이지
+  https://nhnacademy-be8-plzbuybook.github.io/.github/
   
   
 
