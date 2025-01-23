@@ -243,10 +243,10 @@ CI / CD  https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/iss
 nginx 설정
  - 프론트 이중화 하기 위하여 nginx를 통한 리버스 프록시 설정
 
-세션 레디스
- - 서버 이중화에 따른 세션 정합성 해결을 위한 redis 세션 스토리지 적용 https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/500
+세션 레디스  https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/500
+ - 서버 이중화에 따른 세션 정합성 해결을 위한 redis 세션 스토리지 적용 
 
-Object storage
+Object storage  https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/505
  - 서버에 등록될 여러 파일 관리를 위해 nhn cloud Object storage api 를 활용한 객체 관리 구현
 
 property 설정
