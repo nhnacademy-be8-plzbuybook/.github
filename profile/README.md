@@ -230,7 +230,7 @@ gateway
  - 비회원 장바구니 세션 쿠키를 활용한 CRUD 구현
  - 장바구니에서 주문 구현
 
-CI / CD
+CI / CD  https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/503
  - git action 을 활용하여 develop branch에 push, pull-request 하면 build, test 검증.
  - git action 을 활용하여 main branch에 push, pull-request 하면 build, test 검증
  - git action 의 maven.yml script 로 jar파일 업로드,  각 repository dockerfile을 읽어서 docker image build 후 run 
