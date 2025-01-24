@@ -87,7 +87,7 @@ plzbuybook 도서 온라인 쇼핑몰 입니다.
 인증 
 
  - JWT 토큰 발급 및 관리 redis-session 구현
- - JWT 토큰 인증 구현
+ - [JWT 토큰 인증 구현](https://github.com/nhnacademy-be8-plzbuybook/bookstore-shoppingmall/issues/514#issue-2806216034)
  - Refresh Token을 이용한 토큰 재발급 기능 구현
  - 로그인 기능 구현
  - OAUth2 로그인 기능 구현(페이코)
