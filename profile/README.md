@@ -1,7 +1,9 @@
 ## Hi there 👋
 plzbuybook 도서 온라인 쇼핑몰 입니다.
 
-//TODO 홍보 영상 링크 추가 
+
+[<img width="1458" alt="스크린샷" src="https://github.com/user-attachments/assets/803b3521-6f4d-4724-a281-d924bb29421e" />](https://www.youtube.com/watch?v=4Phd8WF2uHA)
+
 
 배포 사이트 : https://plzbuybook.store
 
